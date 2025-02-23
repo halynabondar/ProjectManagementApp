@@ -15,9 +15,9 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/halynabondar/InvestmentCalculator.git
+   git clone https://github.com/halynabondar/ProjectManagementApp.git
    ```
-
+   
 2. Install dependencies:
    ```bash
    npm install
@@ -27,3 +27,7 @@
    ```bash
    npm run dev
    ```
+
+## Screenshots
+
+![***.png](src/assets/***.png)

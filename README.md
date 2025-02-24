@@ -10,8 +10,8 @@ A simple React-based project management app that allows users to create, select,
 - Dynamic UI updates using React state management.
 
 ## 🛠️ Technologies Used
-  • React (with hooks for state management)
-  • Tailwind CSS for styling
+- React (with hooks for state management)
+- Tailwind CSS for styling
 
 ## 🏗️ How to Run the Project
 
@@ -29,7 +29,7 @@ A simple React-based project management app that allows users to create, select,
    ```bash
    npm install
    ```
-
+   
 4. Start the project:
    ```bash
    npm run dev

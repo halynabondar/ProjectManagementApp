@@ -3,11 +3,11 @@
 A simple React-based project management app that allows users to create, select, and delete projects, as well as add and remove tasks for each project.
 
 ## 🚀 Features
-  •	Create new projects with a title, description, and due date.
-  •	Select and view project details.
-  •	Delete projects when no longer needed.
-  •	Add and remove tasks within a selected project.
-  •	Dynamic UI updates using React state management.
+•	Create new projects with a title, description, and due date. 
+•	Select and view project details. 
+•	Delete projects when no longer needed. 
+•	Add and remove tasks within a selected project. 
+•	Dynamic UI updates using React state management.
 
 ## 🛠️ Technologies Used
   • React (with hooks for state management)
